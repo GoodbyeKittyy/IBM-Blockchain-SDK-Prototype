@@ -2,6 +2,9 @@
 This is a Node.js library for REST based interaction with [Hyperledger](https://github.com/hyperledger/fabric) [chaincode](https://github.com/hyperledger/fabric/blob/master/docs/FAQ/chaincode_FAQ.md/). 
 All `ibm-blockchain-js` documentation is on this page.
 
+![image](https://github.com/user-attachments/assets/980a6ec0-b3c7-4e8d-bb9b-3ad8f679a931)
+
+
 *7/22 Update! there is a new gRPC based SDK called [HFC](https://github.com/hyperledger/fabric/tree/master/sdk/node). I will continue to maintain this SDK for as long as REST exists.*
 
 Table Of Contents:
